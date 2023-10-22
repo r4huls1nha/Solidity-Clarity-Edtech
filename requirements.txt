@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Streamlit for web app
+streamlit==0.79.0
+
+# OpenAI for chatbot
+openai==0.10.2
+
+# dotenv to use .env file
+python-dotenv==0.15.0
+
+# gpt-4 for chatbot
+gpt-4==0.0.2
